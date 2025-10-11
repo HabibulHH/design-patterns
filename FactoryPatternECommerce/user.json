@@ -1,0 +1,7 @@
+1. while placing and order -- prerefence:  
+[email' | 'sms' | 'whatsapp' | 'push',]
+/order(){
+    email 
+}
+// email --- 
+// sms 

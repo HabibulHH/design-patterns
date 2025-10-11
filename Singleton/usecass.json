@@ -1,0 +1,29 @@
+Logging system (Logger) – central logging across the app.
+
+Configuration manager (Config) – read app settings from one source.
+
+Database connection pool (DatabaseConnection) – manage DB connections efficiently.
+
+Thread pools / task schedulers – manage background tasks globally.
+
+Cache manager – single shared cache instance.
+
+File system manager – unified file access and locking.
+
+Network manager / API client – single HTTP client to reuse connections.
+
+Authentication manager – manage user sessions or tokens.
+
+Event bus / message broker – central event dispatcher for the app.
+
+Printer spooler – only one print queue controlling all print jobs.
+
+Resource manager – e.g., GPU, memory, or hardware controller.
+
+Game engine manager – global access to core game state.
+
+Analytics tracker – single tracker instance for collecting metrics.
+
+Settings / Preferences manager – maintain app/user preferences in one place.
+
+Security / Encryption manager – central key storage or crypto engine.
