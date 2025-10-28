@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "commonjs"
+    // Do NOT set experimentalDecorators here
+  }
+}
